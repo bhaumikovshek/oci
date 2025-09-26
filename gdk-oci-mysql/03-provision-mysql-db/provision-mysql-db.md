@@ -38,7 +38,7 @@ In this lab, you will:
 
     ![MySQL Standalone or HA](images/mysql-standalone-ha.jpg#input)
 
-7. Leave the default values in the **Network** and **Placement** sections unchanged.
+7. Select from the dropdown list *llw-net-* for **VCN** and *LLW Public Subnet(Regional)* for **Subnet**.
 
     ![MySQL Network and Placement](images/mysql-network-placement.png#input)
 
